@@ -1,0 +1,56 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawn Care</title>
+    
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+    <header>
+            <div class="social-icon">
+            <li><i class="fa-brands fa-facebook-f"></i></li>
+            <li><i class="fa-brands fa-twitter"></i></li>
+            <li><i class="fa-brands fa-instagram"></i></li>
+            <li><i class="fa-solid fa-globe"></i></li>
+            
+         </div>
+        <a href=""><h1>LAWN <span>CARE</span></h1></a>
+        <form action="">
+            <input type="text" placeholder="search">
+            
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </form>
+ </header>
+ <nav>
+    <div class="first">
+        <a href=""><li>Home</li></a>
+    
+    <a href=""><li>About Us</li></a>
+<a href=""><li>Services</li></a>
+<a href=""><li>Gallrey</li></a>
+<a href=""><li>Blog</li></a>
+<a href=""><li>Contact</li></a>
+</div>
+ </nav>
+ <div class="second ">
+    <h4>Welcome to Lawn care
+</h4>
+<h1>Lawn care for 
+</h1>
+<h1> everyone
+</h1>
+<h4>Let us work on your yard
+
+
+</h4>
+ <button>Learn more<i class="fa-solid fa-angle-right"></i></button>
+
+ </div>
+
+    
+</body>
+</html>
