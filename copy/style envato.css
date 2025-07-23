@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    margin-left: 500px;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+.first {
+    background-color: blue;
+    color: white;
+}
+.first a {
+    color: rgb(19, 96, 49);
+    text-decoration: none;
+}
